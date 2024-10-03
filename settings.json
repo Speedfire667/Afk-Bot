@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Speedfire667.aternos.me",
+    "port": 56470,
     "version": "1.19.3"
   },
 
@@ -25,9 +25,9 @@
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false,
-      "jump": false,
+      "jump":  true,
       "rotate": false,
 
       "hit": {
@@ -43,7 +43,7 @@
     },
 
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 60,
 
@@ -51,7 +51,7 @@
         "I'm a regular player ",
         "My owner is urFate_ ",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "seus is mans"
       ]
     },
 
