@@ -2,13 +2,13 @@
   "bot-account": {
     "username": "bot",
     "password": "your_password",
-    "type": "offiline"
+    "type": "mojang"
   },
 
   "server": {
     "ip": "Speedfire667.aternos.me",
     "port": 56470,
-    "version": "1.12"
+    "version": "1.12.3"
   },
 
   "position": {
@@ -28,16 +28,16 @@
       "enabled": true,
       "sneak": false,
       "jump":  true,
-      "rotate": false,
+      "rotate": true,
 
       "hit": {
-        "enabled": false,
+        "enabled":  true,
         "delay": 1000,
-        "attack-mobs": false
+        "attack-mobs": true
       },
 
       "circle-walk": {
-        "enabled": false,
+        "enabled": true,
         "radius": 2
       }
     },
