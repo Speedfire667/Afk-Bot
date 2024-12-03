@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "Speedfire667.aternos.me",
-    "port": 56470,
+    "ip": "kamaga321.aternos.me",
+    "port": 11324,
     "version": "1.12.3"
   },
 
@@ -56,7 +56,7 @@
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 5000
   }
 }
